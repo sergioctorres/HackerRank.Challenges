@@ -5,9 +5,8 @@ using System.Linq;
 
 class Solution
 {
-    /*
-     * Complete the miniMaxSum function below.
-     */
+    /* Challenge URL: https://www.hackerrank.com/challenges/mini-max-sum/problem */
+
     static void miniMaxSum(int[] arr)
     {
         long sum = 0;

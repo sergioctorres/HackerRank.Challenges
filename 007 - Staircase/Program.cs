@@ -5,10 +5,8 @@ using System.Linq;
 
 class Solution
 {
+    /* Challenge URL: https://www.hackerrank.com/challenges/staircase/problem */
 
-    /*
-     * Complete the staircase function below.
-     */
     static void staircase(int n)
     {
         string spaces = string.Empty;

@@ -5,10 +5,8 @@ using System.Linq;
 
 class Solution
 {
+    /* Challenge URL: https://www.hackerrank.com/challenges/compare-the-triplets */
 
-    /*
-     * Complete the solve function below.
-     */
     static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2)
     {
         int[] points = new int[2];

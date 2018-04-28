@@ -5,10 +5,8 @@ using System.Linq;
 
 class Solution
 {
+    /* Challenge URL: https://www.hackerrank.com/challenges/diagonal-difference/problem */
 
-    /*
-     * Complete the diagonalDifference function below.
-     */
     static int diagonalDifference(int[][] a)
     {
         int sumX = 0;

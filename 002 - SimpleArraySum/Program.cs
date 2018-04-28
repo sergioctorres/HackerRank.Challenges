@@ -5,9 +5,8 @@ using System.Linq;
 
 class Solution
 {
-    /*
-     * Complete the simpleArraySum function below.
-     */
+    /* Challenge URL: https://www.hackerrank.com/challenges/simple-array-sum/problem */
+
     static int simpleArraySum(int[] ar)
     {
         int sum = 0;

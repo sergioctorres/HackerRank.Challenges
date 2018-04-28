@@ -5,9 +5,8 @@ using System.Linq;
 
 class Solution
 {
-    /*
-     * Complete the plusMinus function below.
-     */
+    /* Challenge URL: https://www.hackerrank.com/challenges/plus-minus/problem */
+
     static void plusMinus(int[] arr)
     {
         int positives = 0;
