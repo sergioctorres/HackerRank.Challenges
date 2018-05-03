@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - MiniMaxSum", "008 - M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - BirthdayCakeCandles", "009 - BirthdayCakeCandles\009 - BirthdayCakeCandles.csproj", "{C341BAED-C8B0-4B86-A7B1-7BB3DE184F4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 - TimeConversion", "010 - TimeConversion\010 - TimeConversion.csproj", "{A310BCF8-A0CC-4AC0-8A26-9F00B2BAF029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C341BAED-C8B0-4B86-A7B1-7BB3DE184F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C341BAED-C8B0-4B86-A7B1-7BB3DE184F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C341BAED-C8B0-4B86-A7B1-7BB3DE184F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A310BCF8-A0CC-4AC0-8A26-9F00B2BAF029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A310BCF8-A0CC-4AC0-8A26-9F00B2BAF029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A310BCF8-A0CC-4AC0-8A26-9F00B2BAF029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A310BCF8-A0CC-4AC0-8A26-9F00B2BAF029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
